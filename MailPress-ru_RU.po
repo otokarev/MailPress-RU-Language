@@ -371,7 +371,7 @@ msgstr "Просмотр"
 # C:\wgettext\mailpress\mp-admin\forms.php:274
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:245
 msgid "t.b.c."
-msgstr "&agrave; confirmer"
+msgstr "t.b.c."
 
 # C:\wgettext\m\mailpress_autoresponder\MailPress_autoresponder.php:489
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:248
@@ -580,7 +580,7 @@ msgstr "Архивировать"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:222
 msgid "Delete this mail"
-msgstr "Удалить письмоl"
+msgstr "Удалить письмо"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:223
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\view_logs.php:129
@@ -1144,7 +1144,7 @@ msgstr "Сбой при загрузке."
 # C:\wgettext\mailpress\mp-includes\class\MP_Admin.class.php:565
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:156
 msgid "IO error."
-msgstr "IO ошибка."
+msgstr "Ошибка ввода/вывода."
 
 # C:\wgettext\mailpress\mp-includes\class\MP_Admin.class.php:566
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:157
@@ -1691,12 +1691,12 @@ msgstr "Получать копию"
 # C:\wgettext\mailpress\mp-admin\includes\forms.php:193
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:320
 msgid "form content"
-msgstr "contenu du formulaire"
+msgstr "содержимое формы"
 
 # C:\wgettext\mailpress\mp-admin\includes\forms.php:194
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:321
 msgid "ok/ko message"
-msgstr "message ok/ko"
+msgstr "ok/ko сообщение"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:327
 #, php-format
@@ -1706,7 +1706,7 @@ msgstr "Шаблон : %1$s"
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:6
 #, php-format
 msgid "Fields in form &#8220;%1$s&#8221;"
-msgstr "Champs dans formulaire &#8220;%1$s&#8221;"
+msgstr "Поля формы &#8220;%1$s&#8221;"
 
 # C:\wgettext\mailpress\mp-admin\includes\form_fields.php:64
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:40
@@ -1715,12 +1715,12 @@ msgstr "Поле добавлено."
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:41
 msgid "Field deleted."
-msgstr "Champ supprim&eacute;."
+msgstr "Поле удалено."
 
 # C:\wgettext\mailpress_mailing_lists\mp-admin\mailinglists.php:40
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:42
 msgid "Field updated."
-msgstr "Champ modifi&eacute;."
+msgstr "Поле обновлено."
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:43
 msgid "Field not added."
@@ -1729,17 +1729,17 @@ msgstr "Поле не добавлено."
 # C:\wgettext\mailpress_mailing_lists\mp-admin\mailinglists.php:42
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:44
 msgid "Field not updated."
-msgstr "Champ  pas  modifi&eacute;."
+msgstr "Поле не обновлено."
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:45
 msgid "Fields deleted."
-msgstr "Champs supprim&eacute;s."
+msgstr "Поля удалены."
 
 # C:\wgettext\mailpress\mp-admin\user.php:438
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:82
 #, php-format
 msgid "Update field # %1$s"
-msgstr "Modifier le champ # %1$s"
+msgstr "Обновить поле # %1$s"
 
 # C:\wgettext\mailpress\mailpress\mp-admin\includes\uzer.php:100
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:96
@@ -1749,11 +1749,11 @@ msgstr "Добавить поле"
 # C:\wgettext\mailpress\mp-admin\includes\form_fields.php:182
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:188
 msgid "order in form"
-msgstr "ordre"
+msgstr "Порядок"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:192
 msgid "sub template"
-msgstr "template du champ"
+msgstr "подшаблон"
 
 # C:\wgettext\mailpress\mp-admin\includes\form_templates.php:14
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_templates.php:14
@@ -1763,7 +1763,7 @@ msgstr "Такого файла не существует! Проверьте и
 # C:\wgettext\mailpress\mp-admin\class\MP_Import_abstract.class.php:154
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_templates.php:21
 msgid "File edited successfully."
-msgstr "Fichier &eacute;dit&eacute; avec succ&egrave;s"
+msgstr "Файл успешно обновлён"
 
 # C:\wgettext\mailpress\mp-admin\includes\form_templates.php:22
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_templates.php:22
@@ -1777,28 +1777,28 @@ msgstr "Не могу сохранить в файл, ошибка xml."
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_templates.php:33
 msgid "Edit Form templates"
-msgstr "Templates"
+msgstr "Редактировать шаблоны формы"
 
 # C:\wgettext\mailpress_import\mp-admin\import\csv.php:276
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_templates.php:39
 #, php-format
 msgid "Editing <strong>%s</strong>"
-msgstr "Modification de <strong>%s</strong>"
+msgstr "Редактировать <strong>%s</strong>"
 
 # C:\wgettext\mailpress_import\mp-admin\import\csv.php:276
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_templates.php:39
 #, php-format
 msgid "Browsing <strong>%s</strong>"
-msgstr "Visualisation de <strong>%s</strong>"
+msgstr "Browsing <strong>%s</strong>"
 
 # C:\wgettext\mailpress\mp-admin\includes\form_templates.php:46
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_templates.php:46
 msgid "Select template to edit:"
-msgstr "S&eacute;lectionner la template &agrave; &eacute;diter :"
+msgstr "Выберете шаблон для редактирования:"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_templates.php:67
 msgid "Update File"
-msgstr "Mettre &agrave; le fichier"
+msgstr "Обновить Файл"
 
 # C:\wgettext\mailpress\mp-admin\includes\form_templates.php:113
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_templates.php:69
@@ -1808,7 +1808,7 @@ msgstr "Что бы сохранить изменения вам нужно сд
 # C:\wgettext\mailpress_import\mp-admin\import.php:15
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\import.php:12
 msgid "Cannot load importer."
-msgstr "Impossible de charger l'importateur"
+msgstr "Не могу загрузить импортёра"
 
 # C:\wgettext\mailpress_import\MailPress_import.php:89
 # C:\wgettext\mailpress_import\MailPress_import.php:114
@@ -1818,25 +1818,25 @@ msgstr "Impossible de charger l'importateur"
 #: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_import.php:61
 #: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_import.php:71
 msgid "Import/Export"
-msgstr "Import/Export"
+msgstr "Импорт/Экспорт"
 
 # C:\wgettext\mailpress_import\mp-admin\import.php:30
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\import.php:34
 msgid "If you have emails in another system, MailPress can import those into this blog."
-msgstr "Si vous avez des emails dans un autre système de blog, MailPress peut les importer dans votre blog actuel."
+msgstr "Если у вас есть email'ы в других системах, MailPress может загрузить их в этот блог."
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\import.php:36
 msgid "MailPress can also export your MP users from this blog."
-msgstr "MailPress peut aussi exporter vos abonn&eacute;s de ce blog."
+msgstr "MailPress может также выгрузить ваших MP пользователей из этого блога для использования в дркгом."
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\import.php:38
 msgid "To get started, choose a system to import/export from below:"
-msgstr "Pour commencer, choisissez un syst&egrave;me ci-dessous pour importer/exporter:"
+msgstr "Для начала выберете систему для импорта/экспорта:"
 
 # C:\wgettext\mailpress_import\mp-admin\import.php:53
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\import.php:60
 msgid "No importers/exporters available."
-msgstr "Pas d'importateur/exportateurs disponible"
+msgstr "Никаких импортёров/экспортёров не доступно."
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:6
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\subscriptions.php:73
@@ -1872,7 +1872,7 @@ msgstr "Список рассылки не добавлен."
 # C:\wgettext\mailpress_mailing_lists\mp-admin\mailinglists.php:42
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:33
 msgid "Mailinglist not updated."
-msgstr "Impossible de modifier la mailin list"
+msgstr "Список рассылки не обнавлён."
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:34
 msgid "Mailinglists deleted."
@@ -1926,64 +1926,64 @@ msgstr "Редактировать Письма"
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:27
 #, php-format
 msgid "by %s"
-msgstr "par %s"
+msgstr "by %s"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:44
 #, php-format
 msgid "%s mail deleted"
-msgstr "%s mail supprim&eacute;"
+msgstr "%s письмо удалено"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:44
 #, php-format
 msgid "%s mails deleted"
-msgstr "%s mails supprim&eacute;s"
+msgstr "%s письма удалены"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:45
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:127
 #, php-format
 msgid "%s mail sent"
-msgstr "%s mail envoy&eacute;"
+msgstr "%s письмо послано"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:45
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:127
 #, php-format
 msgid "%s mails sent"
-msgstr "%s mails envoy&eacute;s"
+msgstr "%s письма посланы"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:46
 #, php-format
 msgid "%s mail NOT sent"
-msgstr "%s mail PAS envoy&eacute;"
+msgstr "%s письмо НЕ отослано"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:46
 #, php-format
 msgid "%s mails NOT sent"
-msgstr "%s mails PAS envoy&eacute;s"
+msgstr "%s письма НЕ отосланы"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:47
 #, php-format
 msgid "%s mail archived"
-msgstr "%s mail archiv&eacute;"
+msgstr "%s письмо архивировано"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:47
 #, php-format
 msgid "%s mails archived"
-msgstr "%s mails archiv&eacute;s"
+msgstr "%s письма архивированы"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:48
 #, php-format
 msgid "%s mail unarchived"
-msgstr "%s mail d&eacute;sarchiv&eacute;"
+msgstr "%s письмо не архивировано"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:48
 #, php-format
 msgid "%s mails unarchived"
-msgstr "%s maisl d&eacute;sarchiv&eacute;s"
+msgstr "%s письма не архивированы"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:49
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:121
 msgid "Mail saved"
-msgstr "Mail enregistr&eacute;"
+msgstr "Письмо сохранено"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:129
 msgid "List View"
@@ -1996,26 +1996,26 @@ msgstr "Смотреть в деталях"
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\revision.php:26
 #, php-format
 msgid "Compare Revisions of &#8220;%1$s&#8221;"
-msgstr "Comparer les versions de &#8220;%1$s&#8221;"
+msgstr "Сравнить версии &#8220;%1$s&#8221;"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\revision.php:43
 #, php-format
 msgid "Mail Revision for &#8220;%1$s&#8221; created on %2$s"
-msgstr "Version du mail &#8220;%1$s&#8221;cr&eacute;&eacute;e le %2$s"
+msgstr "Версии письма &#8220;%1$s&#8221; создана %2$s"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\revision.php:61
 #, php-format
 msgid "Older: %s"
-msgstr "+ ancienne: %s"
+msgstr "Старше: %s"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\revision.php:62
 #, php-format
 msgid "Newer: %s"
-msgstr "+ r&eacute;cente : %s"
+msgstr "Моложе: %s"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\revision.php:93
 msgid "These revisions are identical."
-msgstr "Ces 2 versions sont identiques."
+msgstr "Эти версии идентичны."
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings.php:4
 msgid "General"
@@ -2055,13 +2055,13 @@ msgstr "Управление подписками"
 #: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:451
 #: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:152
 msgid "Nothing to subscribe for ..."
-msgstr "Liste vide ..."
+msgstr "Подписаться пока не к чему..."
 
 # C:\wgettext\mp\mailpress\mp-includes\mp-mail-links.php:79
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\subscriptions.php:88
 #: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:153
 msgid "Your email has been deactivated, ask the administrator ..."
-msgstr "Votre email a &eacute;t&eacute; d&eacute;sactiv&eacute;, demander &agrave; l'administrateur ..."
+msgstr "Ваш email был отключён, обратитесь к администрации..."
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:4
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:51
@@ -2070,7 +2070,7 @@ msgstr "Темы MailPress"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:41
 msgid "The active MailPress theme is broken.  Reverting to the default MailPress theme."
-msgstr "Le th&egrave;me MailPress actif est incomplet. Retour au th&egrave;me MailPress default."
+msgstr "Активная тема MailPress неисправна. Возвращаемся к теме по умолчанию."
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:47
 msgid "New MailPress theme activated."
@@ -2078,44 +2078,44 @@ msgstr "Новая тема MailPress активирована"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:51
 msgid "Current Theme"
-msgstr "Th&egrave;me courant"
+msgstr "Текущая Тема"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:59
 msgid "Current MailPress theme preview"
-msgstr "Pr&eacute;visualisation du th&egrave;me MailPress courant"
+msgstr "Обзор текущей темы MailPress"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:61
 #, php-format
 msgid "%1$s %2$s by %3$s|1: theme title, 2: theme version, 3: theme author"
-msgstr "%1$s %2$s par %3$s|1: theme title, 2: theme version, 3: theme author"
+msgstr "%1$s %2$s par %3$s|1: заголовок темы, 2: версия темы, 3: автор темы"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:64
 #, php-format
 msgid "The template files are located in <code>%2$s</code>.  The stylesheet files are located in <code>%3$s</code>.  <strong>%4$s</strong> uses templates from <strong>%5$s</strong>.  Changes made to the templates will affect both MailPress themes."
-msgstr "The template files are located in <code>%2$s</code>.  The stylesheet files are located in <code>%3$s</code>.  <strong>%4$s</strong> uses templates from <strong>%5$s</strong>.  Changes made to the templates will affect both MailPress themes."
+msgstr "Файлы шаблона находятся в <code>%2$s</code>.  Файлы стилей находятся в <code>%3$s</code>.  <strong>%4$s</strong> использует шаблоны из <strong>%5$s</strong>.  Изменения шаблонов повлияют на обе темы MailPress."
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:66
 #, php-format
 msgid "All theme&#8217;s files in : <code>%2$s</code>."
-msgstr "Tous les fichiers de ce th&egrave;me sont dans : <code>%2$s</code>."
+msgstr "Все файлы темы в: <code>%2$s</code>."
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:80
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:81
 msgid "Available Themes"
-msgstr "Th&egrave;mes MailPress"
+msgstr "Доступные Темы"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:129
 msgid "Broken Themes"
-msgstr "Th&egrave;mes invalides"
+msgstr "Неисправные Темы"
 
 # C:\wgettext\mailpress\mp-admin\themes.php:178
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:130
 msgid "The following themes are installed but incomplete.  Themes must have a stylesheet and a template."
-msgstr "Les th&egrave;mes suivants sont install&eacute;s mais incomplets. Les th&egrave;mes doivent avoir au moins une feuille de style et un mod&egrave;le."
+msgstr "Следующие темы установлены, но не до конца. Темы должны иметь файл со стилями и шаблон."
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:135
 msgid "Folder"
-msgstr "Dossier"
+msgstr "Папка"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\user.php:17
 #, php-format
@@ -2129,13 +2129,13 @@ msgstr "Пользователь сохранён"
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:11
 #, php-format
 msgid "starting with &#8220;%s&#8221;"
-msgstr "commen&ccedil;ant par &#8220;%s&#8221;"
+msgstr "начинаем с  &#8220;%s&#8221;"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:16
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:22
 #, php-format
 msgid "in &#8220;%s&#8221;"
-msgstr "dans &#8220;%s&#8221;"
+msgstr "в &#8220;%s&#8221;"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:61
 #, php-format
@@ -2182,12 +2182,12 @@ msgstr "Подписчики %s удалены"
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:65
 #, php-format
 msgid "%s subscriber geolocated"
-msgstr "%s subscriber geolocated"
+msgstr "%s местоположение подписчика определено"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:65
 #, php-format
 msgid "%s subscribers geolocated"
-msgstr "%s subscribers geolocated"
+msgstr "%s местоположение подписчиков определено"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:117
 msgid "Filter"
@@ -2201,23 +2201,23 @@ msgstr "Лог : %1$s"
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\view_logs.php:36
 #, php-format
 msgid "%s file deleted"
-msgstr "%s fichier supprim&eacute;"
+msgstr "%s файл удалён"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\view_logs.php:36
 #, php-format
 msgid "%s files deleted"
-msgstr "%s fichiers supprim&eacute;s"
+msgstr "%s файлы удалены"
 
 # C:\wgettext\mailpress_import\mp-admin\import.php:53
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\view_logs.php:126
 msgid "No logs available"
-msgstr "Pas de log disponible"
+msgstr "Логи не доступны"
 
 # C:\wgettext\mailpress_view_logs\mp-admin\viewlogs.php:204
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\view_logs.php:126
 #, php-format
 msgid "Wrong path : %s"
-msgstr "Mauvais chemin : %s"
+msgstr "Неверный путь: %s"
 
 # C:\wgettext\mailpress_batch_send\mp-admin\includes\settings-batch-send.php:87
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:4
@@ -2233,12 +2233,12 @@ msgstr "Cron добавлен."
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:37
 msgid "Cron deleted."
-msgstr "Cron supprim&eacute;."
+msgstr "Cron удалён."
 
 # C:\wgettext\m\mailpress_autoresponder\mp-admin\autoresponders.php:87
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:38
 msgid "Cron updated."
-msgstr "Cron modifi&eacute;."
+msgstr "Cron обновлён."
 
 # C:\wgettext\mailpress\mp-admin\includes\forms.php:88
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:39
@@ -2248,24 +2248,24 @@ msgstr "Cron не добавлен."
 # C:\wgettext\m\mailpress_autoresponder\mp-admin\autoresponders.php:87
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:40
 msgid "Cron NOT updated."
-msgstr "Cron PAS modifi&eacute;."
+msgstr "Cron НЕ обновлён."
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:41
 msgid "Crons deleted."
-msgstr "Crons supprim&eacute;s."
+msgstr "Cron'ы удалены."
 
 # C:\wgettext\mailpress\mp-admin\includes\options\form\field_types\button\button.php:21
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:42
 msgid "Cron executed."
-msgstr "Cron &eacute;x&eacute;cut&eacute;."
+msgstr "Cron выполнен."
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:43
 msgid "Cron NOT executed."
-msgstr "Cron PAS ex&eacute;cut&eacute;."
+msgstr "Cron НЕ выполнен."
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:67
 msgid "Edit cron"
-msgstr "Modifier le cron"
+msgstr "Редактировать cron"
 
 # C:\wgettext\mailpress_mailing_lists\MailPress_mailing_lists.php:517
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:80
@@ -2278,7 +2278,7 @@ msgstr "e.g., \"сейчас\", \"завтра\", \"+2 дня\", or \"06/04/08 1
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:159
 msgid "JSON encoded string"
-msgstr "cha&icirc;ne encod&eacute;e JSON"
+msgstr "JSON-строка"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:27
 #, php-format
@@ -2288,81 +2288,81 @@ msgstr "Редактировать черновик # %1$s"
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:32
 #, php-format
 msgid "Last edited by %1$s on %2$s at %3$s"
-msgstr "Derni&egrave;re modification par %1$s le %2$s à %3$s"
+msgstr "Отредактирована %1$s %2$s в %3$s"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:72
 #, php-format
 msgid "There is an autosave of this mail that is more recent than the version below.  <a href=\"%s\">View the autosave</a>."
-msgstr "Une sauvegarde automatique existe pour ce mail, qui est plus r&eacute;cente que la version affich&eacute;e ci-dessous. <a href=\"%s\">Afficher cette sauvegarde</a>."
+msgstr "Существует более ранняя версия письма сохранённая автоматически, чем версия ниже. <a href=\"%s\">Посмотреть сохранённую</a>."
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:94
 msgid "Somebody"
-msgstr "Quelqu'un"
+msgstr "Кто-то"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:95
 #, php-format
 msgid "Warning: %s is currently editing this mail"
-msgstr "Alerte : %s est en train de modifier ce mail"
+msgstr "Внимание: %s прямо сейчас редактирует это письмо"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:120
 #, php-format
 msgid "Mail scheduled for: <strong>%1$s</strong>. <a class=\"thickbox\" href=\"%2$s\">Preview mail</a>"
-msgstr "Mail planifi&eacute; pour: <strong>%1$s</strong>. <a class=\"thickbox\" href=\"%2$s\">Pr&eacute;visualiser</a>"
+msgstr "Письмо запланировано для: <strong>%1$s</strong>. <a class=\"thickbox\" href=\"%2$s\">Посмотреть письмо</a>"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:122
 msgid "Mail NOT sent"
-msgstr "Mail PAS envoy&eacute;"
+msgstr "Письмо НЕ послано"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:123
 msgid "Please, enter a valid email"
-msgstr "Entrez un email correct"
+msgstr "Пожалуйста, введите правильный email"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:124
 msgid "Mail NOT sent, no recipient"
-msgstr "Mail PAS envoy&eacute;, aucun destinataire"
+msgstr "Письмо не послано, нет получателей"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:128
 #, php-format
 msgid "Mail restored to revision from %s"
-msgstr "Article r&eacute;cup&eacute;r&eacute; depuis la version du %s"
+msgstr "Письмо восстановлено из %s"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:185
 msgid "To Email:"
-msgstr "&Agrave; Email: "
+msgstr "Email Получателя: "
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:191
 msgid "OR all"
-msgstr "OU tous les "
+msgstr "ИЛИ все"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:200
 msgid "To Name:"
-msgstr "&Agrave; Nom"
+msgstr "Имя Получателя"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:213
 msgid "Enter subject here"
-msgstr "Saisir l'objet du message ici"
+msgstr "Введите заголовок тут"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:5
 msgid "Dashboard"
-msgstr "Tableau de bord"
+msgstr "Панель управления"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:9
 #: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:451
 #: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_abstract.class.php:40
 msgid "Settings"
-msgstr "R&eacute;glages"
+msgstr "Установки"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:30
 msgid "Edit others mails"
-msgstr "Modifier autres mails"
+msgstr "Редактируйте другие письма"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:33
 msgid "Send mails"
-msgstr "Envoyer mails"
+msgstr "Послать письма"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:36
 msgid "Delete mails"
-msgstr "Supprimer mails"
+msgstr "Удалить письма"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:39
 msgid "Archive mails"
@@ -2372,7 +2372,7 @@ msgstr "Архивировать Письма"
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:42
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:70
 msgid "Custom fields"
-msgstr "Champs personnalis&eacute;s"
+msgstr "Произвольные поля"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:46
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:52
@@ -2393,7 +2393,7 @@ msgstr "Удалить пользователей"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches.php:38
 msgid "'Batches' settings saved"
-msgstr "R&eacute;glages &#8220;Batches&#8221; enregistr&eacute;s"
+msgstr "'Batches' settings saved"
 
 # C:\wgettext\mailpress_batch_send\mp-admin\includes\settings-batch-send.php:19
 # C:\wgettext\mailpress_batch_send\mp-admin\includes\settings-batch-send.php:20
@@ -2403,13 +2403,13 @@ msgstr "R&eacute;glages &#8220;Batches&#8221; enregistr&eacute;s"
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:4
 #, php-format
 msgid "%1$s seconds"
-msgstr "%1$s secondes"
+msgstr "%1$s сек."
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:5
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:5
 #, php-format
 msgid "%1$s minute"
-msgstr "%1$s minute"
+msgstr "%1$s мин."
 
 # C:\wgettext\mailpress_batch_send\mp-admin\includes\settings-batch-send.php:22
 # C:\wgettext\mailpress_batch_send\mp-admin\includes\settings-batch-send.php:23
@@ -2425,34 +2425,34 @@ msgstr "%1$s minute"
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:9
 #, php-format
 msgid "%1$s minutes"
-msgstr "%1$s minutes"
+msgstr "%1$s мин."
 
 # C:\wgettext\mailpress_batch_send\mp-admin\includes\settings-batch-send.php:26
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:10
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:10
 #, php-format
 msgid "%1$s hour"
-msgstr "%1$s heure"
+msgstr "%1$s ч."
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:15
 msgid "Sending Mails"
-msgstr "Envoyer mails"
+msgstr "Посылаю Письма"
 
 # C:\wgettext\mailpress_batch_send\mp-admin\includes\settings-batch-send.php:37
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:19
 msgid "Max mails sent per batch"
-msgstr "Nbre max de mails envoy&eacute;s par batch "
+msgstr "Максимальное количество посылаемое за раз"
 
 # C:\wgettext\mailpress_batch_send\mp-admin\includes\settings-batch-send.php:50
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:30
 msgid "Max retries"
-msgstr "Reprises max "
+msgstr "Максимальное количество попыток"
 
 # C:\wgettext\mailpress_batch_send\mp-admin\includes\settings-batch-send.php:80
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:38
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:46
 msgid "Submit batch with"
-msgstr "Soumettre le batch avec"
+msgstr "Submit batch with"
 
 # C:\wgettext\mailpress_batch_send\mp-admin\includes\settings-batch-send.php:87
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:46
@@ -2464,33 +2464,33 @@ msgstr "WP_Cron"
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:50
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:58
 msgid "Every"
-msgstr "Chaque"
+msgstr "Каждый"
 
 # C:\wgettext\mailpress_batch_send\mp-admin\includes\settings-batch-send.php:101
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:62
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:70
 msgid "Other"
-msgstr "autre"
+msgstr "Другой"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:66
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:74
 #, php-format
 msgid "see sample in \"%1$s\""
-msgstr "voir exemple dans \"%1$s\""
+msgstr "смотри пример в \"%1$s\""
 
 # C:\wgettext\mailpress\mp-admin\includes\settings\bounce_handling.form.php:11
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:12
 msgid "no changes"
-msgstr "pas de changement"
+msgstr "никаких изменений"
 
 # C:\wgettext\mailpress\mp-admin\includes\settings\bounce_handling.form.php:12
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:13
 msgid "mark as read"
-msgstr "marquer comme lu"
+msgstr "пометить как прочитанное"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:14
 msgid "delete"
-msgstr "supprimer"
+msgstr "удалить"
 
 # C:\wgettext\mailpress\MailPress_bounce_handling.php:295
 # C:\wgettext\mailpress\MailPress_bounce_handling.php:305
@@ -2498,7 +2498,7 @@ msgstr "supprimer"
 # C:\wgettext\mailpress\MailPress_bounce_handling.php:362
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:19
 msgid "Handling Bounces"
-msgstr "Rejets"
+msgstr "Handling Bounces"
 
 # C:\wgettext\mailpress\mp-admin\includes\settings\bounce_handling.form.php:19
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:23
@@ -2509,12 +2509,12 @@ msgstr "Return-Path"
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:26
 #, php-format
 msgid "generated Return-Path will be %1$s"
-msgstr "Le Return-Path g&eacute;n&eacute;r&eacute; sera : \" %1$s"
+msgstr "generated Return-Path will be %1$s"
 
 # C:\wgettext\mailpress\mp-admin\includes\settings\bounce_handling.form.php:22
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:26
 msgid "start_of_email<i>+mail_id</i>+<i>mp_user_id</i>@mydomain.com"
-msgstr "d&eacute;but_de_l'email<i>+mail_id</i>+<i>mp_user_id</i>@mondomaine.com"
+msgstr "start_of_email<i>+mail_id</i>+<i>mp_user_id</i>@mydomain.com"
 
 # C:\wgettext\mailpress\mp-admin\includes\settings\bounce_handling.form.php:25
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:30
@@ -2524,12 +2524,12 @@ msgstr "Max bounces per user"
 # C:\wgettext\mailpress\mp-admin\includes\settings\bounce_handling.form.php:19
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:38
 msgid "Bounce in mailbox"
-msgstr "Rejet une fois trait&eacute;"
+msgstr "Bounce in mailbox"
 
 # C:\wgettext\mailpress\mailpress_connection_phpmail\mp-admin\includes\settings-phpmail.php:11
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_php_mail.form.php:10
 msgid "Additional_parameters"
-msgstr "Param&egrave;tres additionnels"
+msgstr "Дополнительные параметры"
 
 # C:\wgettext\mailpress\mailpress_connection_phpmail\mp-admin\includes\settings-phpmail.php:15
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_php_mail.form.php:14
