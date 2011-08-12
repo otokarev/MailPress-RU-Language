@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MailPress-5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-11-19 18:01+0100\n"
-"PO-Revision-Date: 2011-08-07 20:48+0700\n"
+"PO-Revision-Date: 2011-08-13 04:51+0700\n"
 "Last-Translator: Oleg Tokarev <otokarev@gmail.com>\n"
 "Language-Team: ibsta.com <otokarev@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -3548,12 +3548,12 @@ msgstr "Каждую неделю"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\weekly.xml:5
 msgid "Weekly newsletter"
-msgstr "Еженедельный newsletter"
+msgstr "Еженедельная рассылка новостей"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\weekly.xml:10
 #, php-format
 msgid "[%1$s] Weekly newsletter"
-msgstr "[%1$s] Еженедельный newsletter"
+msgstr "[%1$s] Еженедельная рассылка новостей"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\categories\categories.xml:4
 #, php-format
@@ -3578,12 +3578,12 @@ msgstr "Каждый день \"%1$s\""
 #: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\categories\categories.xml:39
 #, php-format
 msgid "Daily newsletter for %1$s"
-msgstr "Ежедневный newsletter для %1$s"
+msgstr "Ежедневная рассылка обновлений в категории \"%1$s\""
 
 #: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\categories\categories.xml:44
 #, php-format
 msgid "[%1$s] Daily newsletter for {{the_category}}"
-msgstr "[%1$s] Ежедневный newsletter для  {{the_category}}"
+msgstr "[%1$s] Ежедневная рассылка обновлений в категории \"{{the_category}}\""
 
 #: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\categories\categories.xml:77
 #, php-format
@@ -3593,12 +3593,12 @@ msgstr "Каждую неделю  \"%1$s\""
 #: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\categories\categories.xml:78
 #, php-format
 msgid "Weekly newsletter for %1$s"
-msgstr "Ежедневный newsletter для %1$s"
+msgstr "Еженедельная рассылка обновлений в категории \"%1$s\""
 
 #: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\categories\categories.xml:83
 #, php-format
 msgid "[%1$s] Weekly newsletter for {{the_category}}"
-msgstr "[%1$s] Еженедельный newsletter для {{the_category}}"
+msgstr "[%1$s] Еженедельная рассылка обновлений в категории \"{{the_category}}\""
 
 #: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\categories\categories.xml:118
 #, php-format
@@ -3608,12 +3608,12 @@ msgstr "Каждый месяц \"%1$s\""
 #: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\categories\categories.xml:119
 #, php-format
 msgid "Monthly newsletter for %1$s"
-msgstr "Ежемесячный Newsletter для %1$s"
+msgstr "Ежемесячная рассылка обновлений в категории \"%1$s\""
 
 #: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\categories\categories.xml:124
 #, php-format
 msgid "[%1$s] Monthly newsletter for {{the_category}}"
-msgstr "[%1$s] Ежемесячный Newsletter  для {{the_category}}"
+msgstr "[%1$s] Ежемесячная рассылка обновлений в категории \"{{the_category}}\""
 
 #: C:\webserver\gnu\gettext\mailpress\mp-content\themes\MailPress\comments.php:10
 #: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\comments.php:10
