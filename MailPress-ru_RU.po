@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MailPress-5.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-11-19 18:01+0100\n"
-"PO-Revision-Date: 2011-08-13 04:51+0700\n"
+"PO-Revision-Date: 2011-09-07 00:22+0700\n"
 "Last-Translator: Oleg Tokarev <otokarev@gmail.com>\n"
 "Language-Team: ibsta.com <otokarev@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -1342,7 +1342,7 @@ msgstr "Списки рассылки"
 #: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:490
 #: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:128
 msgid "Newsletters"
-msgstr "Рассылки"
+msgstr "Обновления"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\addons.php:4
 #: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:80
@@ -3292,7 +3292,7 @@ msgstr "Друг"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:219
 msgid "<br />Newsletters added"
-msgstr "<br />Newsletters добавлены."
+msgstr "<br />Обновления добавлены."
 
 #: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:386
 msgid "Post test"
@@ -3300,7 +3300,7 @@ msgstr "Test article"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:410
 msgid "Newsletters show at most"
-msgstr "Newsletters показывать не больше чем"
+msgstr "Обновлений показывать не больше чем"
 
 # C:\wgettext\mailpress2\mailpress\mp-admin\includes\settings-general.php:97
 #: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:416
@@ -3318,7 +3318,7 @@ msgstr "Newsletter log"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:431
 msgid "(for <b>ALL</b> Newsletters through MailPress)"
-msgstr "(для <b>ВСЕХ</b> Newsletters MailPress)"
+msgstr "(для <b>ВСЕХ</b> Обновлений MailPress)"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:431
 msgid "Number of Newsletter log files : "
@@ -3330,7 +3330,7 @@ msgstr "MailPress тест"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:483
 msgid "View all newsletters"
-msgstr "Смотреть все newsletters"
+msgstr "Смотреть все обновления"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:536
 msgid "None "
@@ -3507,12 +3507,12 @@ msgstr "Ежедневно"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\daily.xml:5
 msgid "Daily newsletter"
-msgstr "Ежедневные newsletters"
+msgstr "Ежедневные обновления"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\daily.xml:10
 #, php-format
 msgid "[%1$s] Daily newsletter"
-msgstr "[%1$s] Ежедневные newsletters"
+msgstr "[%1$s] Ежедневные обновления"
 
 # C:\wgettext\mailpress_newsletter_categories\MailPress_newsletter_categories.php:216
 #: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\monthly.xml:4
@@ -3521,12 +3521,12 @@ msgstr "Каждый месяц"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\monthly.xml:5
 msgid "Monthly newsletter"
-msgstr "Ежемесячные newsletters"
+msgstr "Обновления за месяц"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\monthly.xml:10
 #, php-format
 msgid "[%1$s] Monthly newsletter"
-msgstr "[%1$s] Ежемесячные newsletters"
+msgstr "[%1$s] Обновления за месяц"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\new_post.xml:4
 msgid "Per post"
@@ -5268,7 +5268,7 @@ msgstr "Привет! Готов импортировать твои <b>Subscrib
 
 #: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:73
 msgid "newsletters"
-msgstr "рассылки"
+msgstr "обновления"
 
 #: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:74
 msgid "mailing lists"
@@ -5363,7 +5363,7 @@ msgstr "Категории используемые в Subscribe2"
 #: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:269
 #: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:372
 msgid "MailPress Newsletters"
-msgstr " Рассылки MailPress"
+msgstr "Обновления MailPress"
 
 # C:\wgettext\mp\mailpress_import\mp-admin\import\subscribe2.php:402
 #: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:354
