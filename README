@@ -1,3 +1,3 @@
-This package contains russian localization files for MailPress 5.1 both source .po file and compiled ready for use .mo file.
+This package contains russian localization files for MailPress 5.4 both source .po file and compiled ready for use .mo file.
 
 To use russian local just copy .mo file to wp-content/plugins/mailpress/mp-content/languages directory of your WordPress (+MailPress) installation.
