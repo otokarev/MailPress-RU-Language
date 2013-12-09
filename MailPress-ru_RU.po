@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MailPress\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-06-07 14:06+0200\n"
-"PO-Revision-Date: 2013-12-08 18:35+0700\n"
+"PO-Revision-Date: 2013-12-09 23:39+0700\n"
 "Last-Translator: Oleg Tokarev <otokarev@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -628,7 +628,7 @@ msgstr "Метки:"
 #: D:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_tracking.php:108
 #: D:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_tracking.php:367
 msgid "Tracking"
-msgstr "Слеживание"
+msgstr "Слежение"
 
 #: D:\webserver\gnu\gettext\mailpress\mp-admin\tracking_u.php:62
 #: D:\webserver\gnu\gettext\mailpress\mp-admin\users.php:95
