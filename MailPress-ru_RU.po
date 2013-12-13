@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MailPress\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-06-07 14:06+0200\n"
-"PO-Revision-Date: 2013-12-13 23:41+0700\n"
+"PO-Revision-Date: 2013-12-14 00:03+0700\n"
 "Last-Translator: Oleg Tokarev <otokarev@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -1825,7 +1825,7 @@ msgstr "Комментарии"
 #: D:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:473
 #: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:110
 msgid "Newsletters"
-msgstr "Рассылки"
+msgstr "Доступные списки рассылки"
 
 #: D:\webserver\gnu\gettext\mailpress\mp-admin\includes\subscriptions.php:86
 #: D:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:434
@@ -2848,7 +2848,7 @@ msgstr "Пользователи %s добавлены"
 
 #: D:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_comment.php:134
 msgid "Notify me of follow-up comments via email."
-msgstr "Сообщи мне о последующих комментариях по почте"
+msgstr "Сообщать мне о других комментариях к этому посту по почте."
 
 #: D:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_comment.php:150
 #, php-format
@@ -3346,7 +3346,7 @@ msgstr "Ежемесячно %1$s \"%2$s\""
 #: D:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\post\categories\categories.xml:137
 #, php-format
 msgid "Monthly %1$s newsletter for %2$s"
-msgstr "Ежемесячно %1$s newsletter для %2$s"
+msgstr "Ежемесячная рассылка %1$s для %2$s"
 
 #: D:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\post\categories\categories.xml:142
 #, php-format
@@ -3806,7 +3806,7 @@ msgstr "Подписка подтверждена"
 #: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:44
 #, php-format
 msgid "<p><b>%1$s</b> has successfully subscribed.</p>"
-msgstr "<p><b>%1$s</b> успешно подписан.</p>"
+msgstr "<p><b>%1$s</b> добавлен в систему.</p>"
 
 #: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:46
 #, php-format
@@ -3816,7 +3816,7 @@ msgstr "<a href=\"%1$s\">Управлять подпиской</a>"
 #: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:61
 #, php-format
 msgid "Manage Subscription (%1$s)"
-msgstr "Управлять подпиской  (%1$s)"
+msgstr "Управление доступными подписками  (%1$s)"
 
 #: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:66
 #: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:166
@@ -3825,7 +3825,7 @@ msgstr "Отменённое действие"
 
 #: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:140
 msgid "Delete Subscription"
-msgstr "Удалить подписку"
+msgstr "Удалить E-mail из системы"
 
 #: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:152
 msgid "Unsubscribe"
