@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MailPress\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-06-07 14:06+0200\n"
-"PO-Revision-Date: 2013-12-13 23:32+0700\n"
+"PO-Revision-Date: 2013-12-13 23:41+0700\n"
 "Last-Translator: Oleg Tokarev <otokarev@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -1831,7 +1831,7 @@ msgstr "Рассылки"
 #: D:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:434
 #: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:134
 msgid "Nothing to subscribe for ..."
-msgstr "Подписаться пока не к чему..."
+msgstr "Пока вы не можете подписаться ни к одной из рассылок."
 
 #: D:\webserver\gnu\gettext\mailpress\mp-admin\includes\subscriptions.php:87
 #: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:135
