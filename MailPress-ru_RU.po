@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MailPress\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-06-07 14:06+0200\n"
-"PO-Revision-Date: 2013-12-14 00:03+0700\n"
+"PO-Revision-Date: 2013-12-14 04:10+0700\n"
 "Last-Translator: Oleg Tokarev <otokarev@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -18,6 +18,331 @@ msgstr ""
 "X-Poedit-Language: Russian\n"
 "X-Poedit-Country: RUSSIAN FEDERATION\n"
 "X-Poedit-SourceCharset: utf-8\n"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:43
+msgid "% Comments"
+msgstr "% Комментариев"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\MailPress\_loop.php:15
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\_loop.php:18
+msgid "(more...)"
+msgstr "(подробнее...)"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyeleven\_loop.php:29
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentytwelve\_loop.php:28
+msgid ", "
+msgstr ","
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:43
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyeleven\_loop.php:67
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentytwelve\_loop.php:49
+msgid "<b>%</b> Replies"
+msgstr "<b>%</b> Ответы"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyeleven\_loop.php:67
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentytwelve\_loop.php:49
+msgid "<b>1</b> Reply"
+msgstr "<b>1</b> Ответ"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:9
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\moderate.php:11
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:268
+#, php-format
+msgid "A new comment on the post \"%s\" is waiting for your approval"
+msgstr "Новый комментарий на пост \"%s\"  ждет вашего одобрения"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:29
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\moderate.php:36
+msgid "Approve"
+msgstr "Подтвердить"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:12
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\moderate.php:16
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:174
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:270
+#, php-format
+msgid "Author : %1$s (IP: %2$s , %3$s)"
+msgstr "Автор: %1$s (IP: %2$s , %3$s)"
+
+#: ../_template/comments.php:8
+#, php-format
+msgid "Comment # %s in \"{{the_title}}\""
+msgstr "Комментарий # %s в \"{{the_title}}\""
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:20
+msgid "Comment : "
+msgstr "Комментарий: "
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\moderate.php:22
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:178
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:274
+msgid "Comment: "
+msgstr "Комментарий: "
+
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_User.class.php:482
+msgid "Confirm"
+msgstr "Подтвердить"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Actions.class.php:473
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Actions.class.php:480
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_User.class.php:505
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_User.class.php:511
+msgid "Congratulations !"
+msgstr "Поздравляем!"
+
+#: ../_template/_loop.php:31
+#, php-format
+msgid "Continue reading %s"
+msgstr "Продолжить чтение %s"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:30
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продолжение <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../_template/form_visitor.php:7
+msgid "Copy of your submission"
+msgstr "Копия вами отосланной формы"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-admin\autoresponders.php:174
+#: D:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:196
+#: D:\webserver\gnu\gettext\mailpress\mp-admin\form_fields.php:206
+#: D:\webserver\gnu\gettext\mailpress\mp-admin\mailinglists.php:192
+#: D:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:220
+#: D:\webserver\gnu\gettext\mailpress\mp-admin\user.php:204
+#: D:\webserver\gnu\gettext\mailpress\mp-admin\user.php:422
+#: D:\webserver\gnu\gettext\mailpress\mp-admin\users.php:234
+#: D:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:209
+#: D:\webserver\gnu\gettext\mailpress\mp-admin\write.php:422
+#: D:\webserver\gnu\gettext\mailpress\mp-admin\write.php:712
+#: D:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:32
+#: D:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:32
+#: D:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:35
+#: D:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:32
+#: D:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:70
+#: D:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:63
+#: D:\webserver\gnu\gettext\mailpress\mp-admin\includes\view_logs.php:32
+#: D:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:69
+#: D:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:417
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:33
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\moderate.php:39
+msgid "Delete"
+msgstr "Удалить"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:14
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\moderate.php:18
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:175
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:271
+#, php-format
+msgid "E-mail : %s"
+msgstr "E-mail : %s"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\new_user.php:13
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\new_user.php:13
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:366
+#, php-format
+msgid "E-mail: %s"
+msgstr "E-mail: %s"
+
+#: header.php:8
+msgid "Email not displaying correctly ?"
+msgstr "Письмо отображается некорректно?"
+
+#: ../_template/new_subscriber.php:7
+msgid "Email validation"
+msgstr "Проверка E-mail"
+
+#: ../_template/_loom.php:9
+#, php-format
+msgid "Generated on %s"
+msgstr "Создано %s"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\retrieve_pwd.php:13
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\retrieve_pwd.php:13
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:426
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "Если это ошибка, проигнорируйте это письмо, и ничего не случится."
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:43
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyeleven\_loop.php:67
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentytwelve\_loop.php:49
+msgid "Leave a reply"
+msgstr "Написать комментарий"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\new_user.php:27
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\new_user.php:27
+msgid "Log in"
+msgstr "Войти"
+
+#: ../_template/form_recipient.php:7
+msgid "Mail from form"
+msgstr "Письмо от формы"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_comment.php:150
+msgid "Manage your subscriptions"
+msgstr "Управлять вашими подписками"
+
+#: ../_template/new_user.php:9
+msgid "New User"
+msgstr "Новый пользователь"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:10
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\moderate.php:12
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:173
+#, php-format
+msgid "New comment on your post \"%s\""
+msgstr "Новый комментарий на ваш пост \"%s\""
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:31
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: ../_template/retrieve_pwd.php:8
+msgid "Password reset"
+msgstr "Сброс пароля"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\new_user.php:23
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\new_user.php:23
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:392
+#, php-format
+msgid "Password: %s"
+msgstr "Пароль: %s"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:6
+#, php-format
+msgid "Permalink to %s"
+msgstr "Постоянная ссылка на %s"
+
+#: ../_template/new_subscriber.php:9
+#, php-format
+msgid "Please confirm your email address : %s"
+msgstr "Пожалуйста, подтвердите ваш E-mail: %s"
+
+#: ../_template/_loop.php:37
+msgid "Posted in"
+msgstr "Опубликовано в "
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\comments.php:10
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyeleven\_loop.php:17
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\comments.php:10
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\options\oembed\providers\Twitter.php:27
+msgid "Reply"
+msgstr "Ответить"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\retrieve_pwd.php:19
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\retrieve_pwd.php:19
+msgid "Reset"
+msgstr "Сброс"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\retrieve_pwd.php:10
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\retrieve_pwd.php:10
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:423
+msgid "Someone requested that the password be reset for the following account:"
+msgstr "Кто-то запросил сброс пароля для учётных записей:"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:34
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\moderate.php:40
+msgid "Spam"
+msgstr "Спам"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:42
+msgid "Tagged "
+msgstr "Помечено "
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\retrieve_pwd.php:14
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\retrieve_pwd.php:14
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:427
+msgid "To reset your password, visit the following address:"
+msgstr "Посетите следующий адрес, чтобы сбросить пароль: "
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:32
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\moderate.php:38
+msgid "Trash"
+msgstr "Корзина"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:16
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\moderate.php:20
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:157
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:166
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:176
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:257
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:264
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:272
+#, php-format
+msgid "URL    : %s"
+msgstr "URL    : %s"
+
+#: ../plaintext/footer.php:6
+msgid "Unsubscribe [{{unsubscribe}}]"
+msgstr "Отписаться [{{unsubscribe}}]"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\new_user.php:11
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\new_user.php:21
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\retrieve_pwd.php:12
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\new_user.php:11
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\new_user.php:21
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\retrieve_pwd.php:12
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:365
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:391
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:425
+#, php-format
+msgid "Username: %s"
+msgstr "Логин : %s"
+
+#: ../plaintext/footer.php:4
+msgid "View [{{viewhtml}}]"
+msgstr "Смотреть [{{viewhtml}}]"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:30
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\moderate.php:37
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\recent_archives.php:54
+msgid "View all"
+msgstr "Смотреть всё"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:23
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentytwelve\_loop.php:12
+#, php-format
+msgid "View all posts by %s"
+msgstr "Посмотреть все сообщения от %s"
+
+#: header.php:8
+msgid "View it in your browser"
+msgstr "Воспользуйтесь интернет-обозревателем для просмотра вашего письма."
+
+#: ../_template/new_user.php:19
+msgid "Welcome !"
+msgstr "Добро пожаловать!"
+
+#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:18
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:177
+#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:273
+#, php-format
+msgid "Whois  : http://ws.arin.net/cgi-bin/whois.pl?queryinput=%s"
+msgstr "Whois  : http://ws.arin.net/cgi-bin/whois.pl?queryinput=%s"
+
+#: ../_template/confirmed.php:9
+#, php-format
+msgid "You are now a subscriber of : %s ."
+msgstr "Теперь вы подписаны на : %s ."
+
+#: ../plaintext/confirmed.php:9
+#, php-format
+msgid "You are now a subscriber of : %s."
+msgstr "Теперь вы подписчик : %s."
+
+#: ../plaintext/footer.php:2
+msgid "this mail is brought to you by MailPress"
+msgstr "Это письмо доставлено вам MailPress"
+
+#: ../plaintext/new_subscriber.php:6
+#, php-format
+msgid "Waiting for : %s"
+msgstr "Ожидание подтверждения E-mail: %s"
 
 #: D:\webserver\gnu\gettext\mailpress\MailPress.php:213
 msgid "IMPORTANT: <a href=\"%$1s\">Read this before attempting to update MailPress</a>"
@@ -188,31 +513,6 @@ msgstr "Событие"
 #: D:\webserver\gnu\gettext\mailpress\mp-includes\meta_boxes\post\test.php:65
 msgid "Edit"
 msgstr "Изменить"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-admin\autoresponders.php:174
-#: D:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:196
-#: D:\webserver\gnu\gettext\mailpress\mp-admin\form_fields.php:206
-#: D:\webserver\gnu\gettext\mailpress\mp-admin\mailinglists.php:192
-#: D:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:220
-#: D:\webserver\gnu\gettext\mailpress\mp-admin\user.php:204
-#: D:\webserver\gnu\gettext\mailpress\mp-admin\user.php:422
-#: D:\webserver\gnu\gettext\mailpress\mp-admin\users.php:234
-#: D:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:209
-#: D:\webserver\gnu\gettext\mailpress\mp-admin\write.php:422
-#: D:\webserver\gnu\gettext\mailpress\mp-admin\write.php:712
-#: D:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:32
-#: D:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:32
-#: D:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:35
-#: D:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:32
-#: D:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:70
-#: D:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:63
-#: D:\webserver\gnu\gettext\mailpress\mp-admin\includes\view_logs.php:32
-#: D:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:69
-#: D:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:417
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:33
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\moderate.php:39
-msgid "Delete"
-msgstr "Удалить"
 
 #: D:\webserver\gnu\gettext\mailpress\mp-admin\autoresponders.php:200
 #: D:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:222
@@ -2855,10 +3155,6 @@ msgstr "Сообщать мне о других комментариях к эт
 msgid "You are subscribed to this entry. %1$s."
 msgstr "Вы подписаны на эту рассылку. %1$s."
 
-#: D:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_comment.php:150
-msgid "Manage your subscriptions"
-msgstr "Управлять вашими подписками"
-
 #: D:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_comment.php:233
 #, php-format
 msgid "[%1$s] New Comment (%2$s)"
@@ -3353,147 +3649,6 @@ msgstr "Ежемесячная рассылка %1$s для %2$s"
 msgid "[%1$s] Monthly {{the_post_types}} newsletter for {{the_taxonomy}}"
 msgstr "[%1$s] Ежемесячная {{the_post_types}} рассылка для {{the_taxonomy}}"
 
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\MailPress\_loop.php:15
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\_loop.php:18
-msgid "(more...)"
-msgstr "(подробнее...)"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\comments.php:10
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyeleven\_loop.php:17
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\comments.php:10
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\options\oembed\providers\Twitter.php:27
-msgid "Reply"
-msgstr "Ответить"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:9
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\moderate.php:11
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:268
-#, php-format
-msgid "A new comment on the post \"%s\" is waiting for your approval"
-msgstr "Новый комментарий на пост \"%s\"  ждет вашего одобрения"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:10
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\moderate.php:12
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:173
-#, php-format
-msgid "New comment on your post \"%s\""
-msgstr "Новый комментарий на ваш пост \"%s\""
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:12
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\moderate.php:16
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:174
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:270
-#, php-format
-msgid "Author : %1$s (IP: %2$s , %3$s)"
-msgstr "Автор: %1$s (IP: %2$s , %3$s)"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:14
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\moderate.php:18
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:175
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:271
-#, php-format
-msgid "E-mail : %s"
-msgstr "E-mail : %s"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:16
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\moderate.php:20
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:157
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:166
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:176
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:257
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:264
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:272
-#, php-format
-msgid "URL    : %s"
-msgstr "URL    : %s"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:18
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:177
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:273
-#, php-format
-msgid "Whois  : http://ws.arin.net/cgi-bin/whois.pl?queryinput=%s"
-msgstr "Whois  : http://ws.arin.net/cgi-bin/whois.pl?queryinput=%s"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:20
-msgid "Comment : "
-msgstr "Комментарий: "
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:29
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\moderate.php:36
-msgid "Approve"
-msgstr "Подтвердить"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:30
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\moderate.php:37
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\recent_archives.php:54
-msgid "View all"
-msgstr "Смотреть всё"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:32
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\moderate.php:38
-msgid "Trash"
-msgstr "Корзина"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:34
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\moderate.php:40
-msgid "Spam"
-msgstr "Спам"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\new_user.php:11
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\new_user.php:21
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\retrieve_pwd.php:12
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\new_user.php:11
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\new_user.php:21
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\retrieve_pwd.php:12
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:365
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:391
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:425
-#, php-format
-msgid "Username: %s"
-msgstr "Логин : %s"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\new_user.php:13
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\new_user.php:13
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:366
-#, php-format
-msgid "E-mail: %s"
-msgstr "E-mail: %s"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\new_user.php:23
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\new_user.php:23
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:392
-#, php-format
-msgid "Password: %s"
-msgstr "Пароль: %s"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\new_user.php:27
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\new_user.php:27
-msgid "Log in"
-msgstr "Войти"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\retrieve_pwd.php:10
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\retrieve_pwd.php:10
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:423
-msgid "Someone requested that the password be reset for the following account:"
-msgstr "Кто-то запросил сброс пароля для учётных записей:"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\retrieve_pwd.php:13
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\retrieve_pwd.php:13
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:426
-msgid "If this was a mistake, just ignore this email and nothing will happen."
-msgstr "Если это ошибка, проигнорируйте это письмо, и ничего не случится."
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\retrieve_pwd.php:14
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\retrieve_pwd.php:14
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:427
-msgid "To reset your password, visit the following address:"
-msgstr "Посетите следующий адрес, чтобы сбросить пароль: "
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\retrieve_pwd.php:19
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\retrieve_pwd.php:19
-msgid "Reset"
-msgstr "Сброс"
-
 #: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyeleven\_loop.php:17
 msgid "1"
 msgstr "1"
@@ -3503,34 +3658,9 @@ msgstr "1"
 msgid "%"
 msgstr "%"
 
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyeleven\_loop.php:29
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentytwelve\_loop.php:28
-msgid ", "
-msgstr ","
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyeleven\_loop.php:67
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentytwelve\_loop.php:49
-msgid "Leave a reply"
-msgstr "Написать комментарий"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyeleven\_loop.php:67
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentytwelve\_loop.php:49
-msgid "<b>1</b> Reply"
-msgstr "<b>1</b> Ответ"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyeleven\_loop.php:67
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentytwelve\_loop.php:49
-msgid "<b>%</b> Replies"
-msgstr "<b>%</b> Ответы"
-
 #: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loom.php:10
 msgid "Generated on "
 msgstr "Сгенерировано"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:6
-#, php-format
-msgid "Permalink to %s"
-msgstr "Постоянная ссылка на %s"
 
 #: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:13
 msgid "Posted on "
@@ -3540,56 +3670,13 @@ msgstr "Опубликовано"
 msgid "by "
 msgstr "от"
 
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:23
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentytwelve\_loop.php:12
-#, php-format
-msgid "View all posts by %s"
-msgstr "Посмотреть все сообщения от %s"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:30
-msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
-msgstr "Продолжение <span class=\"meta-nav\">&rarr;</span>"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:31
-msgid "Pages:"
-msgstr "Страницы:"
-
 #: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:37
 msgid "Posted in "
 msgstr "Опубликовано в"
 
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:42
-msgid "Tagged "
-msgstr "Помечено "
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:43
-msgid "Leave a comment"
-msgstr "Оставить комментарий"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:43
-msgid "1 Comment"
-msgstr "1 комментарий"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:43
-msgid "% Comments"
-msgstr "% Комментариев"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-content\themes\_template\moderate.php:22
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:178
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:274
-msgid "Comment: "
-msgstr "Комментарий: "
-
 #: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Actions.class.php:426
 msgid "Wrong arguments in url"
 msgstr "Не верные аргументы в урле"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Actions.class.php:473
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Actions.class.php:480
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_User.class.php:505
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_User.class.php:511
-msgid "Congratulations !"
-msgstr "Поздравляем!"
 
 #: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Actions.class.php:475
 #: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Actions.class.php:482
@@ -3797,7 +3884,7 @@ msgstr "<p> Ошибка # %1$s (%2$s) !</p>"
 
 #: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:22
 msgid "Check you are using the appropriate link."
-msgstr "Проверьте, ту ли ссылку вы используете?"
+msgstr "Проверьте, ту ли ссылку вы используете? Не устарела ли ссылка?"
 
 #: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:41
 msgid "Subscription confirmed"
@@ -4082,10 +4169,6 @@ msgstr "Пожалуйста подтвердите подписку %1$s к р�
 #: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_User.class.php:484
 msgid "If you do not want to receive more emails, ignore this one !"
 msgstr "Если вы не хотите получать много писем, проигнорируйте это!"
-
-#: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_User.class.php:482
-msgid "Confirm"
-msgstr "Подтвердить"
 
 #: D:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_User.class.php:501
 #, php-format
@@ -5156,4 +5239,3 @@ msgstr "Рассылка:"
 #: D:\webserver\gnu\gettext\mailpress\mp-includes\meta_boxes\post\test.php:44
 msgid "Sending ..."
 msgstr "Посылаем.."
-
